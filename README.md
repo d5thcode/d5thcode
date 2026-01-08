@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @d5thcode
-- 👀 I’m interested in backend and data analysis
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on slack, telegram and discord
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on slack, telegram and LinkedIn
 - 📫 How to reach me twitter @Taiwoaniemeke
 
 <!---
